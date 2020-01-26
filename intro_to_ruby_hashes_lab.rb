@@ -8,6 +8,7 @@ def monopoly_with_second_tier
    monoploy = { 
   railroads: {
     pieces: 4,
+    names: {},
     rent_in_dollars: {}
   }
 }   
