@@ -1,6 +1,6 @@
 def base_hash
   monoploy = { 
-  railroads: "david"
+  railroads: {}
 }
 end
 
